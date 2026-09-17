@@ -3,3 +3,10 @@ body {
 	color: white;
 	font-family: "Arial";
 }
+
+.navbar {
+	background-color: #A773FF;
+	color: black;
+	height: 50px;
+	border: 2px solid white;
+}
